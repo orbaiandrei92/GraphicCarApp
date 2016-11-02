@@ -1,0 +1,39 @@
+D:\c# proiect\grafica - masina\grafica - masina\bin\Debug\grafica - masina.exe
+D:\c# proiect\grafica - masina\grafica - masina\bin\Debug\grafica - masina.pdb
+D:\c# proiect\grafica - masina\grafica - masina\obj\Debug\ResolveAssemblyReference.cache
+D:\c# proiect\grafica - masina\grafica - masina\obj\Debug\grafica___masina.Form1.resources
+D:\c# proiect\grafica - masina\grafica - masina\obj\Debug\grafica___masina.Properties.Resources.resources
+D:\c# proiect\grafica - masina\grafica - masina\obj\Debug\grafica - masina.csproj.GenerateResource.Cache
+D:\c# proiect\grafica - masina\grafica - masina\obj\Debug\grafica - masina.exe
+D:\c# proiect\grafica - masina\grafica - masina\obj\Debug\grafica - masina.pdb
+K:\c# proiect\grafica - masina\grafica - masina\obj\Debug\grafica - masina.exe
+K:\c# proiect\grafica - masina\grafica - masina\obj\Debug\grafica - masina.pdb
+K:\c# proiect\grafica - masina\grafica - masina\bin\Debug\grafica - masina.exe
+K:\c# proiect\grafica - masina\grafica - masina\bin\Debug\grafica - masina.pdb
+K:\c# proiect\grafica - masina\grafica - masina\obj\Debug\ResolveAssemblyReference.cache
+K:\c# proiect\grafica - masina\grafica - masina\obj\Debug\grafica___masina.Form1.resources
+K:\c# proiect\grafica - masina\grafica - masina\obj\Debug\grafica___masina.Properties.Resources.resources
+K:\c# proiect\grafica - masina\grafica - masina\obj\Debug\grafica - masina.csproj.GenerateResource.Cache
+K:\grafica - masina\grafica - masina\obj\Debug\grafica - masina.exe
+K:\grafica - masina\grafica - masina\obj\Debug\grafica - masina.pdb
+\\Info\Share\XII MI2\Lung Radu Orbai Andrei\grafica - masina\grafica - masina\obj\Debug\grafica - masina.exe
+\\Info\Share\XII MI2\Lung Radu Orbai Andrei\grafica - masina\grafica - masina\obj\Debug\grafica - masina.pdb
+J:\proiect\grafica - masina\grafica - masina\obj\Debug\grafica - masina.exe
+J:\proiect\grafica - masina\grafica - masina\obj\Debug\grafica - masina.pdb
+D:\Stick\Bac\grafica - masina\grafica - masina\obj\Debug\grafica - masina.exe
+D:\Stick\Bac\grafica - masina\grafica - masina\obj\Debug\grafica - masina.pdb
+D:\Stick\Bac\grafica - masina\grafica - masina\bin\Debug\grafica - masina.exe
+D:\Stick\Bac\grafica - masina\grafica - masina\bin\Debug\grafica - masina.pdb
+D:\Stick\Bac\grafica - masina\grafica - masina\obj\Debug\grafica___masina.Form1.resources
+D:\Stick\Bac\grafica - masina\grafica - masina\obj\Debug\grafica___masina.Properties.Resources.resources
+D:\Stick\Bac\grafica - masina\grafica - masina\obj\Debug\grafica - masina.csproj.GenerateResource.Cache
+F:\New folder\Notepad\Bac\grafica - masina\grafica - masina\obj\Debug\grafica - masina.exe
+F:\New folder\Notepad\Bac\grafica - masina\grafica - masina\obj\Debug\grafica - masina.pdb
+F:\New folder\Notepad\Bac\grafica - masina\grafica - masina\bin\Debug\grafica - masina.exe
+F:\New folder\Notepad\Bac\grafica - masina\grafica - masina\bin\Debug\grafica - masina.pdb
+F:\New folder\Notepad\Bac\grafica - masina\grafica - masina\obj\Debug\grafica - masina.csprojResolveAssemblyReference.cache
+F:\New folder\Notepad\Bac\grafica - masina\grafica - masina\obj\Debug\grafica___masina.Form1.resources
+F:\New folder\Notepad\Bac\grafica - masina\grafica - masina\obj\Debug\grafica___masina.Properties.Resources.resources
+F:\New folder\Notepad\Bac\grafica - masina\grafica - masina\obj\Debug\grafica - masina.csproj.GenerateResource.Cache
+D:\Projects\Atestat Info\grafica - masina\grafica - masina\obj\Debug\grafica - masina.exe
+D:\Projects\Atestat Info\grafica - masina\grafica - masina\obj\Debug\grafica - masina.pdb

@@ -1,0 +1,8 @@
+D:\c# proiect\grafica - masina\grafica - masina\bin\Release\grafica - masina.exe
+D:\c# proiect\grafica - masina\grafica - masina\bin\Release\grafica - masina.pdb
+D:\c# proiect\grafica - masina\grafica - masina\obj\Release\ResolveAssemblyReference.cache
+D:\c# proiect\grafica - masina\grafica - masina\obj\Release\grafica___masina.Form1.resources
+D:\c# proiect\grafica - masina\grafica - masina\obj\Release\grafica___masina.Properties.Resources.resources
+D:\c# proiect\grafica - masina\grafica - masina\obj\Release\grafica - masina.csproj.GenerateResource.Cache
+D:\c# proiect\grafica - masina\grafica - masina\obj\Release\grafica - masina.exe
+D:\c# proiect\grafica - masina\grafica - masina\obj\Release\grafica - masina.pdb
